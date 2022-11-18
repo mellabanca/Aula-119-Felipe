@@ -1,0 +1,12 @@
+{"intents":[
+    {
+        "tag":"saudacao",
+        "patterns":["Ola! como voce esta?", "Oow", "Oi", "Ola", "E ai, tudo bem?", "Ei brow"],
+        "responses":["Ola! Obrigado por perguntar", "Fico feliz em te ver", "E ai brow", "Fala, mano!"]
+    },
+    {
+        "tag": "despedida",
+        "patterns": ["Good bye", "Faloow", "Adios", "Ate mais", "Tchau!", "Adeus", "Nos vemos na proxima"],
+        "responses":["Foi um prazer conversar com voce!", "Tchau!", "Bye, bye!", "Falou!"]
+    }
+]}
